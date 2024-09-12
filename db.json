@@ -1,9 +1,27 @@
 {
-  "all_product": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
+  "crud":[
+
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
+  
+  "users":[
+
   ],
-  "profile": { "name": "typicode" }
+  
+  "tapsData":[
+
+  ],
+  "all":[
+    {
+      "id":1,
+      "path":"/crud"
+    },
+    {
+      "id":1,
+      "path":"/users"
+    },
+    {
+      "id":1,
+      "path":"/tapsData"
+    }
+  ]
 }
