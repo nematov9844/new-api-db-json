@@ -1,27 +1,233 @@
 {
-  "crud":[
-
-  ],
-  
-  "users":[
-
-  ],
-  
-  "tapsData":[
-
-  ],
-  "all":[
+  "crud": [
     {
-      "id":1,
-      "path":"/crud"
+      "id": "1",
+      "name": "Temur",
+      "age": "39",
+      "hobby": "reels",
+      "location": "Toshkent"
     },
     {
-      "id":1,
-      "path":"/users"
+      "id": "2",
+      "name": "Shahzod",
+      "age": "25",
+      "hobby": "kitob o'qish",
+      "location": "Samarqand"
     },
     {
-      "id":1,
-      "path":"/tapsData"
+      "id": "3",
+      "name": "Olim",
+      "age": "30",
+      "hobby": "sport",
+      "location": "Andijon"
+    },
+    {
+      "id": "4",
+      "name": "Madina",
+      "age": "28",
+      "hobby": "sayohat qilish",
+      "location": "Buxoro"
+    },
+    {
+      "id": "5",
+      "name": "Dilnoza",
+      "age": "35",
+      "hobby": "ovqat tayyorlash",
+      "location": "Farg'ona"
+    },
+    {
+      "id": "6",
+      "name": "Jasur",
+      "age": "27",
+      "hobby": "video o'yinlar",
+      "location": "Namangan"
+    },
+    {
+      "id": "7",
+      "name": "Oydin",
+      "age": "22",
+      "hobby": "musika tinglash",
+      "location": "Xiva"
+    },
+    {
+      "id": "8",
+      "name": "Sarvar",
+      "age": "40",
+      "hobby": "dasturlash",
+      "location": "Navoiy"
+    },
+    {
+      "id": "9",
+      "name": "Gulnora",
+      "age": "33",
+      "hobby": "rasm chizish",
+      "location": "Urganch"
+    },
+    {
+      "id": "10",
+      "name": "Kamol",
+      "age": "29",
+      "hobby": "velosiped minish",
+      "location": "Qarshi"
+    }
+  ],
+
+  "users": [
+    {
+      "id": "1",
+      "firstName": "Temur",
+      "lastName": "Rahimov",
+      "age": "39",
+      "email": "temur39@example.com",
+      "phone": "+998901234567",
+      "address": "Toshkent, Chilonzor tumani"
+    },
+    {
+      "id": "2",
+      "firstName": "Shahzod",
+      "lastName": "Kasimov",
+      "age": "25",
+      "email": "shahzod25@example.com",
+      "phone": "+998933214567",
+      "address": "Samarqand, Registon ko'chasi"
+    },
+    {
+      "id": "3",
+      "firstName": "Olim",
+      "lastName": "Shukurov",
+      "age": "30",
+      "email": "olim30@example.com",
+      "phone": "+998994567890",
+      "address": "Andijon, Markaziy ko'chasi"
+    },
+    {
+      "id": "4",
+      "firstName": "Madina",
+      "lastName": "Abdullayeva",
+      "age": "28",
+      "email": "madina28@example.com",
+      "phone": "+998903456789",
+      "address": "Buxoro, Shahar markazi"
+    },
+    {
+      "id": "5",
+      "firstName": "Dilnoza",
+      "lastName": "Xolmurodova",
+      "age": "35",
+      "email": "dilnoza35@example.com",
+      "phone": "+998937654321",
+      "address": "Farg'ona, Amir Temur ko'chasi"
+    },
+    {
+      "id": "6",
+      "firstName": "Jasur",
+      "lastName": "Yusupov",
+      "age": "27",
+      "email": "jasur27@example.com",
+      "phone": "+998901234567",
+      "address": "Namangan, Sho'ro ko'chasi"
+    },
+    {
+      "id": "7",
+      "firstName": "Oydin",
+      "lastName": "Qodirova",
+      "age": "22",
+      "email": "oydin22@example.com",
+      "phone": "+998998765432",
+      "address": "Xiva, Ichan qal'a"
+    },
+    {
+      "id": "8",
+      "firstName": "Sarvar",
+      "lastName": "Narzullayev",
+      "age": "40",
+      "email": "sarvar40@example.com",
+      "phone": "+998935678912",
+      "address": "Navoiy, Kosonsoy ko'chasi"
+    },
+    {
+      "id": "9",
+      "firstName": "Gulnora",
+      "lastName": "Mahkamova",
+      "age": "33",
+      "email": "gulnora33@example.com",
+      "phone": "+998912345678",
+      "address": "Urganch, Xorazm ko'chasi"
+    },
+    {
+      "id": "10",
+      "firstName": "Kamol",
+      "lastName": "Rahmonov",
+      "age": "29",
+      "email": "kamol29@example.com",
+      "phone": "+998906789123",
+      "address": "Qarshi, Shahrisabz ko'chasi"
+    }
+  ],
+  "tapsData": [
+    {
+      "id": "1",
+      "title": "Quyosh",
+      "description": "Quyosh — Quyosh tizimining markaziy yulduzi va Yerga eng yaqin yulduz. U vodorod va geliy gazlaridan iborat bo'lib, kuchli energiya chiqaradi."
+    },
+    {
+      "id": "2",
+      "title": "Galaktika",
+      "description": "Galaktika — katta miqdordagi yulduzlar, gaz, chang va qorong'u materiyadan iborat bo'lgan ulkan tizim. Biz yashayotgan galaktika — Somon Yo'li."
+    },
+    {
+      "id": "3",
+      "title": "Olamning kengayishi",
+      "description": "Olam kengaymoqda va bu kashfiyot koinotning kattalashib borayotganini ko'rsatadi. Ushbu hodisa Bing Bang nazariyasi bilan izohlanadi."
+    },
+    {
+      "id": "4",
+      "title": "Qorong'u materiya",
+      "description": "Qorong'u materiya koinotning 85 foizini tashkil qiladi. U yulduzlar va boshqa jismlarning harakatiga ta'sir ko'rsatadi, lekin uni to'g'ridan-to'g'ri kuzatish imkoni yo'q."
+    },
+    {
+      "id": "5",
+      "title": "Quyosh tizimi",
+      "description": "Quyosh tizimi Quyosh va atrofida aylanayotgan sayyoralar, asteroidlar va boshqa jismlardan iborat. Yerdan tashqari yetti sayyora mavjud."
+    },
+    {
+      "id": "6",
+      "title": "Qora tuynuk",
+      "description": "Qora tuynuk — bu o'ta zich jism bo'lib, hatto yorug'lik ham undan qochib chiqolmaydi. U gravitatsion kollaps natijasida hosil bo'ladi."
+    },
+    {
+      "id": "7",
+      "title": "Bing Bang",
+      "description": "Bing Bang nazariyasiga ko'ra, koinot juda zich va issiq holatda boshlanib, bugungi kungacha kengayib kelmoqda."
+    },
+    {
+      "id": "8",
+      "title": "Ekzoplanetalar",
+      "description": "Ekzoplanetalar — Quyosh tizimidan tashqarida joylashgan va boshqa yulduzlar atrofida aylanayotgan sayyoralar. Ko'pchilik ularda hayot izlari bor deb o'ylaydi."
+    },
+    {
+      "id": "9",
+      "title": "Oy",
+      "description": "Oy — Yerning tabiiy yo'ldoshi bo'lib, uning fazalari Quyosh va Yer o'rtasidagi joylashuviga qarab o'zgaradi."
+    },
+    {
+      "id": "10",
+      "title": "Koinotdagi eng yirik tuzilma",
+      "description": "Koinotdagi eng yirik tuzilma — ulkan galaktikalar superklasterlari bo'lib, ular milliardlab yorug'lik yillari masofada joylashgan."
+    }
+  ],
+  "all": [
+    {
+      "id": 1,
+      "path": "/crud"
+    },
+    {
+      "id": 1,
+      "path": "/users"
+    },
+    {
+      "id": 1,
+      "path": "/tapsData"
     }
   ]
 }
